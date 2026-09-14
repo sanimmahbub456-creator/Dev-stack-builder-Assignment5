@@ -4,7 +4,6 @@ interface Props {
   removeFromStack: (id: string) => void;
   clearStack: () => void;
 }
-
 export default function StackSidebar({ stack, removeFromStack, clearStack }: Props) {
   const count = stack.length;
 

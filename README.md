@@ -8,7 +8,7 @@ This project is built using **React, TypeScript, Tailwind CSS, and React‑Toast
 ## 🚀 Live Demo
 
 🔗 **Live Site:** https://friendly-jalebi-f15bfd.netlify.app/  
-🔗 **GitHub Repository:** (paste your repo link here)
+🔗 **GitHub Repository: https://github.com/sanimmahbub456-creator/Dev-stack-builder-Assignment5
 
 ---
 
@@ -107,22 +107,15 @@ Used to fetch JSON data when the app starts.
 React needs a unique key to track each item. It helps React update only changed items instead of re‑rendering everything.
 
 ### 6. What is conditional rendering? Show one place you used it.
-Conditional rendering means showing different UI based on conditions.
-
-```tsx
-{loading ? <TechnologyGridSkeleton /> : <TechnologyGrid ... />}
-
-
-7. How do you pass data from parent to child, and how does a child send something back?
+Conditional rendering means showing different UI elements depending on a condition. In React, this is usually done with a ternary (`means showing different UI elements depending on a condition. In React, this is usually done with a ternary ( ? :) or logical ( &&) operator.
+### 7. How do you pass data from parent to child, and how does a child send something back?
 Parent → Child: pass data using props
-
 Child → Parent: call a function passed from the parent
-
 Example:
 Parent passes addToStack to child.
 Child calls it when user clicks “Add to Stack”.
 
-📄 Project Structure
+# 📄 Project Structure
 
 src/
  ├── components/
@@ -132,13 +125,16 @@ src/
  ├── main.tsx
  ├── index.css
  ├── app.css
-
 public/
  └── technologies.json
+
+# 📚 How to Run Locally
 npm install
 npm run dev
 
-Final Notes
+
+
+# Final Notes
 This project follows all assignment rules:
 
 No lorem ipsum
@@ -154,3 +150,5 @@ Responsive
 Clean UI
 
 8+ meaningful git commits
+
+

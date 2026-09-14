@@ -28,7 +28,7 @@ export default function Hero() {
         {/* RIGHT — Image */}
         <div className="flex justify-center">
           <img
-            src="/banner-stack.png"   // ✅ FIXED: Works on Netlify app
+            src="/banner-stack.png"   //✅ FIXED: Works on Netlify app
             alt="Dev Stack Banner"
             className="max-w-xs md:max-w-sm rounded-2xl shadow-lg"
           />

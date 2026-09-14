@@ -1,11 +1,10 @@
 # 📘 Dev Stack Builder — React + Tailwind + TypeScript
-
 A modern, responsive, and interactive web application that helps users explore popular technologies and build their own personalized “Dev Stack”.  
 This project is built using **React, TypeScript, Tailwind CSS, and React‑Toastify**, following all assignment requirements.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 **Live Site:** https://friendly-jalebi-f15bfd.netlify.app/  
 🔗 **GitHub Repository: https://github.com/sanimmahbub456-creator/Dev-stack-builder-Assignment5
@@ -24,12 +23,12 @@ This project is built using **React, TypeScript, Tailwind CSS, and React‑Toast
 
 ---
 
-## ⭐ Top Features
+##  Top Features
 
 ### 1️⃣ Technology Explorer
 Browse 10–15 technologies with icons, descriptions, categories, difficulty levels, ratings, and badges.
 
-### 2️⃣ Build Your Own Dev Stack
+### 2️⃣ Build  Dev Stack
 Add technologies to your stack, remove individually, or clear all.  
 Duplicate adds show a warning.
 
@@ -83,7 +82,7 @@ The entire site is fully responsive:
 
 ---
 
-## 🧠 React Questions (Answered Simply)
+##  React Questions (Answered Simply)
 
 ### 1. What is JSX, and why is it used in React?
 JSX lets you write HTML inside JavaScript. It makes UI code easier to read and helps combine markup and logic in one place.
